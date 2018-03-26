@@ -1,7 +1,7 @@
 public class Fragment {
     public static void main(String[] args) {
         boolean[][] n = new boolean[][]{{true, false, true}, {false, false, false}, {true, true, false}};
-        
+        System.out.println(""+ 1 + 2 + "");
         // print header
         System.out.print("  ");
         for (int j = 1; j <= n.length; ++j) {

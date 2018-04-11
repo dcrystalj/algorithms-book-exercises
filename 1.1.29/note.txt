@@ -1,0 +1,4 @@
+to run this use -ea flag to trigger assertion
+
+java -ea BinarySearch tinyT.txt
+

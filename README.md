@@ -1,6 +1,8 @@
 ### Algorithms (cs4)
 Mine solutions of exercies for book *Algorithms* by Robert Sedgewick && Kevin Wayne
 
+<img src="book_cover.png" height="300px">
+
 
 #### code is compiled with
 javac-algs4

@@ -3,10 +3,9 @@ import edu.princeton.cs.algs4.*;
 public class Parentheses {
 
   public static void main(String[] args) {
-    String input = StdIn.readLine();
+    String infix = StdIn.readLine();
     String[] in = input.split("\\s+");
     Stack<String> stack = new Stack<String>();
-    String result = "";
     for (int i = 0; i < in.length; i++) {
       if (!in[i].equals(")")) {
         stack.push(in[i]);
